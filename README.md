@@ -2,6 +2,8 @@
 
 Guess the Number is a simple number guessing game where you try to guess a random number within a given range. You have a limited number of attempts to guess the correct number. The game provides multiple difficulty levels, so you can choose the level that suits your preference.
 
+**Demo:** [Play Guess the Number](https://ars-guess-the-number.w3spaces.com/)
+
 ## How to Play
 
 1. **Objective**: Your goal is to guess the correct number within the allowed number of attempts.
